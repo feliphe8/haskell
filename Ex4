@@ -1,0 +1,54 @@
+
+a) Faca uma funcao que receba uma lista de Strings e devolva:
+
+i) Quando tiver nenhum, uma lista vazia de Strings
+
+ii) Quando a lista tiver um elemento, seu reverso.
+
+iii) Quando tiver dois elementos, o reverso da primeira
+palavra concatenado com o reverso da segunda
+
+iv) Para 3 ou mais elementos, retorne o reverso da lista
+
+b) Crie pattern matching para as situacoes:
+
+i) 6 Variaveis, ignorando o quinto elemento e o fim da lista
+   R: x:y:w:t:_:v:_
+ii) Para quatro elementos, o terceiro deve ser ignorado.
+   R: a:b:_:d:[]
+iii) Para 8 ou mais elementos, ignorando 6 deles.
+   R: a:b:_:_:_:_:_:_:xs
+c) Dado, [7,4,5,6,8,10] em qual pattern matching esta
+se encaixa?
+
+i) x:y:z:w:ws 
+ii) x:xs
+iii) y:x:_:zs
+iv) _:[]
+v) _:_:_:_:_:_:[]
+vi) _:_:_:_:_:_:ws
+vii) _:z:_:_:_:_:[]
+ix) _:z:_:_:_:_:_:[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

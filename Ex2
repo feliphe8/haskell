@@ -1,0 +1,24 @@
+1) Faça a função traduzirPT que recebe
+uma DayWeek e retorna DiaSemana
+
+2) Faça a função traduzirEN que recebe
+uma DiaSemana e retorna DayWeek
+
+3) Em uma empresa, é necessario calcular o salário
+a partir do dia da semana trabalhado.
+Todo sábado a remuneração sofre um acréscimo
+de 50%, todo domingo de 100% e no resto
+não há alteração. Faça uma função 
+remunerar :: DiaSemana -> Double -> Double
+que implemente esta situação.
+
+4) Faça uma função que receba uma
+Tupla da forma (Int, Int, Int, Int)
+e devolva uma tupla com o dobro
+na primeira coordenada, o triplo na
+segunda, o quadruplo na terceira
+e o quintuplo na última. 
+
+
+https://ide.c9.io/romefeller/hask0
+

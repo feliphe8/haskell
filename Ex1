@@ -1,0 +1,7 @@
+1) Gere a lista [5,7,9,11,13,17,19,21]
+2) Faça uma função que recebe via parâmetro
+uma lista de inteiros e retorne uma outra lista
+com seus número diminuidos em 2.
+3) Faça uma função que recebe via parâmetro
+uma lista de inteiros e retorne uma outra lista
+com seus número diminuidos em 7 e em sua ordem reversa.
